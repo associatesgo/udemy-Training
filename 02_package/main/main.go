@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Associatesgo/udemy Training/02_package/stringutil/"
-	"github.com/Associatesgo/udemy Training/02_package/icomefromalaska/"
+	"github.com/Associatesgo/udemy-Training/02_package/icomefromalaska"
+	"github.com/Associatesgo/udemy-Training/02_package/stringutil"
 	//someAlias "github.com/GoesToEleven/GolangTraining/02_package/icomefromalaska"
 )
 
